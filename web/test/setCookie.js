@@ -1,2 +1,6 @@
 var assert = require('assert');
-var isHttp = require('../lib/isHttp.js');
+var setCookie = require('../src/setCookie.js');
+
+describe('setCookie()', function(){
+    it()
+})
