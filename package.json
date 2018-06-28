@@ -1,0 +1,23 @@
+{
+  "name": "js_methods",
+  "version": "1.0.0",
+  "description": "收集一些比较好用的unit工具，这样可以促进我们的开发速度；",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimeisang/js_methods.git"
+  },
+  "keywords": [],
+  "author": "GM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimeisang/js_methods/issues"
+  },
+  "homepage": "https://github.com/guimeisang/js_methods#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
